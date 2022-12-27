@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"nitride":[["impl IntoResponse for <a class=\"enum\" href=\"nitride/shared/api_response/enum.ApiErrorResponse.html\" title=\"enum nitride::shared::api_response::ApiErrorResponse\">ApiErrorResponse</a>"],["impl IntoResponse for <a class=\"enum\" href=\"nitride/shared/api_response/enum.RequestError.html\" title=\"enum nitride::shared::api_response::RequestError\">RequestError</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

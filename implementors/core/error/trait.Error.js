@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"nitride":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/error/trait.Error.html\" title=\"trait core::error::Error\">Error</a> for <a class=\"enum\" href=\"nitride/shared/api_response/enum.RequestError.html\" title=\"enum nitride::shared::api_response::RequestError\">RequestError</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

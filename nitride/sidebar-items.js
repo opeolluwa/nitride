@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["main","the application entry point"]],"mod":[["controllers","the application route controllers/handlers"],["models","the application model definitions, eg: User model, Todo Model e.t.c"],["routes","the application routing logic"],["shared","modules shared across the application, like API response patters, pagination logic e.t.c"]]};

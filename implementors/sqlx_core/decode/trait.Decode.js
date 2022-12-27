@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"nitride":[["impl&lt;'r&gt; Decode&lt;'r, Postgres&gt; for <a class=\"enum\" href=\"nitride/models/emails/enum.EmailFolder.html\" title=\"enum nitride::models::emails::EmailFolder\">EmailFolder</a>"],["impl&lt;'r&gt; Decode&lt;'r, Postgres&gt; for <a class=\"enum\" href=\"nitride/models/emails/enum.EmailStatus.html\" title=\"enum nitride::models::emails::EmailStatus\">EmailStatus</a>"],["impl&lt;'r&gt; Decode&lt;'r, Postgres&gt; for <a class=\"enum\" href=\"nitride/models/users/enum.AccountStatus.html\" title=\"enum nitride::models::users::AccountStatus\">AccountStatus</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["OTP_VALIDITY","set otp validity period to 5 minutes"]],"fn":[["generate_otp","generate otp"],["validate_otp","validate otp accept the otp as function params, verify the"]],"static":[["CURRENT_TIMESTAMP",""],["OTP",""]]};

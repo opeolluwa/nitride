@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["api_response","the API response builder and error handler"],["jwt_schema","JWT claim struct, validation and encryption"],["mailer","email helper functions"],["otp_handler",""]]};

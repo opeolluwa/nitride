@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["auth_routes","#user profile routes"],["email_routes",""],["notes_routes","#user profile routes"],["project_routes","#user profile routes"],["root",""],["settings_routes",""],["todo_routes","#user profile routes"]]};
